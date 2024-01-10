@@ -11,9 +11,5 @@ public interface UserService {
 	public User getUser(String username);
 	public void deleteUser(Long userId);
 	
-	// public User updateUser(User user, Set<UserRole> userRoles) throws Exception;
-	
-	
-	
-	
+	// public User updateUser(User user, Set<UserRole> userRoles) throws Exception;	
 }
